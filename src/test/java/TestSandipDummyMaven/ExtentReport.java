@@ -44,6 +44,8 @@ public class ExtentReport extends Driver
 		System.out.println(driver.getTitle());
 		Assert.assertEquals(driver.getTitle(), "Practice Page page page");
 		driver.close();
+		System.out.println("Pushed now 1");
+		
 		
 		
 	}
