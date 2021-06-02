@@ -12,6 +12,7 @@ public class Hello {
 		
 		System.out.println("Hello World 5");
 		System.out.println("Hello World 6");
+		System.out.println("Hello World 7");
 	}
 
 }
